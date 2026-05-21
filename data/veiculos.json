@@ -1,0 +1,92 @@
+[
+    {
+        "tipo": "Profissões",
+        "nome": "Engenheiro",
+        "tamanho": "Médio",
+        "status": true
+    },
+    {
+        "tipo": "Profissões",
+        "nome": "Médico",
+        "tamanho": "Grande",
+        "status": false
+    },
+    {
+        "tipo": "Profissões",
+        "nome": "Professor",
+        "tamanho": "Pequeno",
+        "status": true
+    },
+    {
+        "tipo": "Personagens",
+        "nome": "Cavaleiro Sombrio",
+        "tamanho": "Grande",
+        "status": true
+    },
+    {
+        "tipo": "Personagens",
+        "nome": "Maga Lunar",
+        "tamanho": "Médio",
+        "status": false
+    },
+    {
+        "tipo": "Personagens",
+        "nome": "Pirata Vermelho",
+        "tamanho": "Grande",
+        "status": true
+    },
+    {
+        "tipo": "Animais",
+        "nome": "Leão",
+        "tamanho": "Grande",
+        "status": true
+    },
+    {
+        "tipo": "Animais",
+        "nome": "Coelho",
+        "tamanho": "Pequeno",
+        "status": false
+    },
+    {
+        "tipo": "Animais",
+        "nome": "Elefante",
+        "tamanho": "Grande",
+        "status": true
+    },
+    {
+        "tipo": "Tematica",
+        "nome": "Cyberpunk",
+        "tamanho": "Médio",
+        "status": true
+    },
+    {
+        "tipo": "Tematica",
+        "nome": "Medieval",
+        "tamanho": "Grande",
+        "status": false
+    },
+    {
+        "tipo": "Tematica",
+        "nome": "Espacial",
+        "tamanho": "Médio",
+        "status": true
+    },
+    {
+        "tipo": "Profissões",
+        "nome": "Programador",
+        "tamanho": "Pequeno",
+        "status": true
+    },
+    {
+        "tipo": "Animais",
+        "nome": "Tigre",
+        "tamanho": "Grande",
+        "status": false
+    },
+    {
+        "tipo": "Personagens",
+        "nome": "Arqueira Élfica",
+        "tamanho": "Médio",
+        "status": true
+    }
+]
